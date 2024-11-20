@@ -24,12 +24,16 @@ o	The analysis highlighted that customers using services for over one month were
 
 # Analytical Approach:
 •	A combination of data exploration, visualization, and statistical modeling provided clarity on churn behaviors.
+
 •	Charts and graphs depicted churn patterns based on customer demographics, contract types, payment methods, and service usage. These visual aids were critical in communicating trends effectively.
 
 # Recommendations:
 •	Introduce incentive programs to promote long-term contracts.
+
 •	Enhance customer engagement through bundled service offerings such as OnlineSecurity and TechSupport.
+
 •	Address payment method preferences by improving the electronic check experience or offering alternative convenient payment options.
+
 •	Implement retention campaigns targeting new customers during their first month of service.
 
 This analysis equips stakeholders with a deeper understanding of churn dynamics and actionable insights to foster customer retention and improve overall satisfaction.
